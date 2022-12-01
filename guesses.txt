@@ -1,0 +1,21 @@
+D: Is it alive?
+D: Is it an animal?
+D: Does it have a shell?
+D: Does it have stripes?
+FG: a zebra snail
+FG: a pond snail
+D: Does it breathe underwater?
+D: Is it kept as a pet?
+FG: a fish
+FG: a whale shark
+D: Does it swim?
+D: Is it a bird?
+FG: a penguin
+FG: a polar bear
+D: Is it a bird?
+FG: a moist owlette
+FG: a guinea pig
+D: Is it tall?
+FG: a tree
+FG: grass
+FG: a rock
