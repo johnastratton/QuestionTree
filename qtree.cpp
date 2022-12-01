@@ -19,7 +19,9 @@ void QuestionTree::Distinguish::setParent(Distinguish* newParent) {
 
 void QuestionTree::Distinguish::deleteSubtrees() {
   yesSubtree->deleteSubtrees();
+  delete yesSubtree;
   noSubtree->deleteSubtrees();
+  delete noSubtree;
 }
 
 void QuestionTree::Distinguish::printSubtree(std::ostream& out) {
