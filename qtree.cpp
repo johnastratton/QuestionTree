@@ -30,7 +30,7 @@ void QuestionTree::Distinguish::printSubtree(std::ostream& out) {
   noSubtree->printSubtree(out);
 };
 
-//Ask the use a true-false question, and get a yes/no answer back
+//Ask the user a true-false question, and get a yes/no answer back
 bool QuestionTree::getAnswer(const std::string& question) {
   std::cout << question << std::endl;
   std::string response("?");
